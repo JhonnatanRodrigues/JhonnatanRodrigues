@@ -30,11 +30,11 @@ Sou desenvolvedor **Senior .NET**, especialista em criar soluções completas pa
 ---
 
 ## 🍽️ Projetos que desenvolvo
-### 🔹 Sistema Web de PDV
+### 🔹 Sistema Web de PDV (React Native)
 - Comandas  
 - Pedidos  
 - Caixa e Extratos  
-- Impressões térmicas (Elgin i8)  
+- Impressões térmicas
 - Emissão de **NFC-e**  
 - Módulo financeiro (contas a receber/pagar)  
 - Dashboard e relatórios
@@ -43,13 +43,12 @@ Sou desenvolvedor **Senior .NET**, especialista em criar soluções completas pa
 - Clientes fazem pedidos direto do tablet  
 - Envio automático ao PDV  
 - Impressão em impressoras da cozinha  
-- Modo quiosque  
 - Autenticação, sincronização e offline  
 
 ---
 
 ## 💼 Minha experiência
-- **Questor Sistemas** — Senior Developer  
+- **Questor Sistemas** — Senior Developer  **Atualmente**
 - **Useall Software** — 3 anos e 2 meses (Pleno)  
 - **Torrecid** — 1 ano  
 - **Prefeitura de Criciúma** — 8 meses  
@@ -62,16 +61,16 @@ Trabalho com IA, APIs .NET, MVC e integrações complexas.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonnatanRodrigues&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnatanRodrigues&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
 ## 📫 Contatos
-- ✉️ Email: **SEU_EMAIL_AQUI**  
-- 🔗 LinkedIn: **SEU_LINKEDIN_AQUI**  
+- ✉️ Email: **jhonnatan.rodrigues2002@gmail.com**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/jhonnatan-rodrigues-serafina-a353541b8/**  
 
 ---
 💡 *Obrigado por visitar meu perfil!*
