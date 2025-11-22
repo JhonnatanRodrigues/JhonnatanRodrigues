@@ -61,7 +61,6 @@ Trabalho com IA, APIs .NET, MVC e integrações complexas.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonnatanRodrigues&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnatanRodrigues&layout=compact&theme=radical&hide_border=true)
 
 </div>
